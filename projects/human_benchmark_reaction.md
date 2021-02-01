@@ -13,4 +13,4 @@ What's the fastest time your bot can get?
 
 ## Hints
 * Find helpful hints for using Pyautogui [here.](https://pyautogui.readthedocs.io/en/latest/)
-* The `pixelMatchesColor()` function will be helpful here. This function returns `True` or `False` if a pixel matches a specific RGB color value.
+* The `pyautogui.pixelMatchesColor()` function will be helpful here. This function returns `True` or `False` if a pixel matches a specific RGB color value.
