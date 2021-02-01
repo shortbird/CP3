@@ -9,4 +9,4 @@ Follow along with these six videos. You should be typing the code along with the
 * [5: Special Methods](https://drive.google.com/file/d/1ieLf-bTi-b78PWx_7rgAiXDGZPAnQl91/view?usp=sharing)
 * [6: Property Decorators - Getters, Setters, Deleters](https://drive.google.com/file/d/1HXqd76OKzdTNR_jISn7YSr0mNsGILBlE/view?usp=sharing)
 
-While you won't end up with a fully finished program, these videos contain all the object-oriented information you need to know for this class. Understanding concepts will help you in future projects you'll need to complete in this class.
+While you won't end up with a fully finished program, these videos contain all the object-oriented information you need to know for this class. Understanding concepts will help you in future projects you'll need to complete.
