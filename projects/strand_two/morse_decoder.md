@@ -11,6 +11,8 @@ Your program should meet the following requirements:
 
 ## Hints
 * The image below is a representation of a Binary Search Tree for Morse Code. A dot indicates a move to the left, and a dash indicates a move to the right.
-![Morse BST](./images/Morse_BST.png)
+
+![Morse BST](../images/morse_bst.png)
+
 * See [this tutorial](https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm) for an intro to Binary Search Trees.
 * [This page](https://www.tutorialspoint.com/python_data_structure/python_binary_search_tree.htm) explains how to navigate a BST.
