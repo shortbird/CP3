@@ -3,8 +3,13 @@ Projects that align with the Utah standards for Advanced Computer Programming
 
 ## Table of Contents:
 
-* [Strand 1](#Strand-1)
-* [Strand 7](#Strand-7)
+* [Strand 1 - Complex Applications](#Strand-1)
+* [Strand 2 - Search/Sort Algorithms](#Strand-2)
+* [Strand 3 - Multidimensional Arrays](#Strand-3)
+* [Strand 4 - Abstract Data Types](#Strand-4)
+* [Strand 5 - Advanced Object-Oriented Programming](#Strand-5)
+* [Strand 6 - Unified Modeling Language](#Strand-6)
+* [Strand 7 - Portfolio Project](#Strand-7)
 
 
 ## Strand 1
