@@ -1,6 +1,12 @@
 # Advanced Computer Programming
 Projects that align with the Utah standards for Advanced Computer Programming
 
+## Table of Contents:
+
+* [Strand 1](#Strand-1)
+* [Strand 7](#Strand-7)
+
+
 ## Strand 1
 Students will develop applications which made advanced use of the skills and concepts developed in Computer Programming 1 and 2.
 
