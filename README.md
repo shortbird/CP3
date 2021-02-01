@@ -25,10 +25,11 @@ Demonstrate the ability to develop complex applications
   * [Reaction Time Bot](./projects/strand_one/human_benchmark_reaction.md)
   * [Aim Trainer Bot](./projects/strand_one/human_benchmark_aim.md)
 * Develop complex applications using object-oriented programming
-  * [Object-Oriented Programming Tutorial](./projects/strand_one/OOP.md)
+  * [Object-Oriented Programming](./projects/strand_one/OOP.md)
 * Develop complex applications using data structures
   * [Linked List](./projects/strand_one/linked_list.md)
 * Develop complex applications using files (sequential files)
+  * TODO: [State Capitals Quiz](./projects/strand_one/state_capitals.md)
 
 ### Standard 2
 Utilize recursive algorithms
@@ -75,6 +76,7 @@ Utilize multidimensional arrays
 * Input and output data into and from multidimensional arrays
 * Perform operations on multidimensional arrays
 * Perform searches on multidimensional arrays
+
 Projects
 * TODO: [Tic Tac Toe](./projects/strand_three/tic_tac_toe.md)
 * TODO: [Connect Four](./projects/strand_three/connect_four.md)
@@ -91,6 +93,11 @@ Demonstrate the ability to use stacks in programs
 * Push on to and pop off values from stacks
 * Develop an application that uses stacks
 
+Projects
+* TODO: [Postfix to Infix](./projects/strand_four/postfix_infix.md)
+  * https://alpine.instructure.com/courses/56757/assignments/662571?module_item_id=1394624
+  * Uses built-in Python data structures (list)
+
 ### Standard 2
 Demonstrate the ability to use queues in programs
 * Declare queue structures
@@ -98,6 +105,12 @@ Demonstrate the ability to use queues in programs
 * Initialize queues
 * Enqueue values on to and dequeue values off queues
 * Develop an application that utilizes queues
+
+Projects
+* TODO: [Queues](./projects/strand_four/queues.md)
+  * https://alpine.instructure.com/courses/56757/assignments/662575?module_item_id=1394626
+  * Uses built-in Python data structures (list)
+
 
 ## Strand 5
 Students will design and implement advanced object-oriented concepts
@@ -128,6 +141,11 @@ Implement polymorphism
 * Determine IS-A relationships via code
 * Demonstrate typecasting via method calls of inherited objects
 
+Projects
+* [Object-Oriented Programming](./projects/strand_one/OOP.md)
+* Postfix to Infix, but students create their own Stack class
+* Queues, but students create their own queue class
+
 ## Strand 6
 Students will use Unified Modeling Language (UML) to design object-oriented programs
 
@@ -137,6 +155,9 @@ Demonstrate the use of UML in design
 * Create a class diagram for the class hierarchy of a program
 * Create a sequence diagram for a function
 * Translate diagrams to code
+
+Projects
+* Create UML diagrams of past projects
 
 ## Strand 7
 Students will develop a program of significant complexity as part of a portfolio
