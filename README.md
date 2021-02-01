@@ -1,6 +1,10 @@
 # Advanced Computer Programming
 Projects that align with the Utah standards for Advanced Computer Programming
 
+## Table of Contents:
+
+- [Strand 1](#Strand 1)
+
 ## Strand 1
 Students will develop applications which made advanced use of the skills and concepts developed in Computer Programming 1 and 2.
 
@@ -11,6 +15,7 @@ Demonstrate the ability to develop complex applications
 * Develop complex applications using object-oriented programming
 * Develop complex applications using data structures
 * Develop complex applications using files (sequential files)
+
 
 ### Standard 2
 Utilize recursive algorithms
