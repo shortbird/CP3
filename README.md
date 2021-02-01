@@ -18,7 +18,7 @@ Students will develop applications which made advanced use of the skills and con
 ### Standard 1
 Demonstrate the ability to develop complex applications
 * Develop complex applications using input, calculations, and output
-  * [Pig Latin](../projects/strand_one/pig_latin.md)
+  * [Pig Latin](./projects/strand_one/pig_latin.md)
   * TODO: [Dice Rolling Simulator](../projects/strand_one/dice_roller.md)
   * TODO: [Hang Man Game](../projects/strand_one/dice_roller.md)
 * Develop complex applications using control structures (loops, if/else, etc.)
