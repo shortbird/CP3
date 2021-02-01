@@ -45,7 +45,7 @@ Demonstrate the ability to search data structures in programs
 ### Standard 2
 Demonstrate the ability to sort data structures in programs
 * Sort arrays using iterative sorting algorithms
-  * Selection sort
+  * [Selection sort](./projects/selection_sort.md)
   * Insertion sort
   * Bubble sort
  * Recognize recursive sorting algorithms
