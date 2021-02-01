@@ -19,15 +19,15 @@ Students will develop applications which made advanced use of the skills and con
 Demonstrate the ability to develop complex applications
 * Develop complex applications using input, calculations, and output
   * [Pig Latin](./projects/strand_one/pig_latin.md)
-  * TODO: [Dice Rolling Simulator](../projects/strand_one/dice_roller.md)
-  * TODO: [Hang Man Game](../projects/strand_one/dice_roller.md)
+  * TODO: [Dice Rolling Simulator](./projects/strand_one/dice_roller.md)
+  * TODO: [Hang Man Game](./projects/strand_one/dice_roller.md)
 * Develop complex applications using control structures (loops, if/else, etc.)
-  * [Reaction Time Bot](../projects/strand_one/human_benchmark_reaction.md)
-  * [Aim Trainer Bot](../projects/strand_one/human_benchmark_aim.md)
+  * [Reaction Time Bot](./projects/strand_one/human_benchmark_reaction.md)
+  * [Aim Trainer Bot](./projects/strand_one/human_benchmark_aim.md)
 * Develop complex applications using object-oriented programming
-  * [Object-Oriented Programming Tutorial](../projects/strand_one/OOP.md)
+  * [Object-Oriented Programming Tutorial](./projects/strand_one/OOP.md)
 * Develop complex applications using data structures
-  * [Linked List](../projects/strand_one/linked_list.md)
+  * [Linked List](./projects/strand_one/linked_list.md)
 * Develop complex applications using files (sequential files)
 
 ### Standard 2
@@ -36,7 +36,7 @@ Utilize recursive algorithms
 * Utilize recursive algorithms to solve a problem
 * Identify the base case, recursive case, and action of recursive functions
 Projects
-* TODO: [Fibonacci Calculator](../projects/strand_one/fibonacci.md)
+* TODO: [Fibonacci Calculator](./projects/strand_one/fibonacci.md)
 
 ### Standard 3
 Create advanced functions
@@ -49,22 +49,22 @@ Students will use searching and sorting algorithms
 ### Standard 1
 Demonstrate the ability to search data structures in programs
 * Develop a binary search
-  * [Morse Decoder](.projects/strand_two/morse_decoder.md)
+  * [Morse Decoder](./projects/strand_two/morse_decoder.md)
 * Compare the efficiency and appropriateness of sequential and binary searches
-  * [Sorting Program](.projects/strand_two/sorting_algorithms.md)
+  * [Sorting Program](./projects/strand_two/sorting_algorithms.md)
 
 ### Standard 2
 Demonstrate the ability to sort data structures in programs
 * Sort arrays using iterative sorting algorithms
-  * [Selection sort](../projects/strand_two/selection_sort.md)
-  * [Insertion sort](../projects/strand_two/insertion_sort.md)
-  * [Bubble sort](../projects/strand_two/bubble_sort.md)
+  * [Selection sort](./projects/strand_two/selection_sort.md)
+  * [Insertion sort](./projects/strand_two/insertion_sort.md)
+  * [Bubble sort](./projects/strand_two/bubble_sort.md)
 * Recognize recursive sorting algorithms
-  * [Merge sort](../projects/strand_two/merge_sort.md)
-  * [Quick sort](../projects/strand_two/quick_sort.md)
-  * [Heap sort](../projects/strand_two/heap_sort.md)
+  * [Merge sort](./projects/strand_two/merge_sort.md)
+  * [Quick sort](./projects/strand_two/quick_sort.md)
+  * [Heap sort](./projects/strand_two/heap_sort.md)
 * Compare the efficiency of sorting algorithms
-  * [Sorting Program](../projects/strand_two/sorting_algorithms.md)
+  * [Sorting Program](./projects/strand_two/sorting_algorithms.md)
 
 ## Strand 3
 Students will utilize multidimensional arrays
@@ -76,9 +76,9 @@ Utilize multidimensional arrays
 * Perform operations on multidimensional arrays
 * Perform searches on multidimensional arrays
 Projects
-* TODO: [Tic Tac Toe](../projects/strand_three/tic_tac_toe.md)
-* TODO: [Connect Four](../projects/strand_three/connect_four.md)
-* TODO: [Battleship Game](../projects/strand_three/battleship.md)
+* TODO: [Tic Tac Toe](./projects/strand_three/tic_tac_toe.md)
+* TODO: [Connect Four](./projects/strand_three/connect_four.md)
+* TODO: [Battleship Game](./projects/strand_three/battleship.md)
 
 ## Strand 4
 Students will properly employ dynamic data structures / abstract data types (ADTs)
