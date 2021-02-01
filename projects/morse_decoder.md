@@ -11,5 +11,4 @@ Your program must meet the following requirements:
 
 ## Hints
 * This image is a representation of a Binary Search Tree for Morse Code:
-![Morse_BST](/images/Morse_BST.jpg)
-Format: ![Morse BST]
+![Morse_BST](/images/Morse_BST.png)
