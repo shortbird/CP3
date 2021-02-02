@@ -20,12 +20,12 @@ Demonstrate the ability to develop complex applications
 * Develop complex applications using input, calculations, and output
   * [Pig Latin](./projects/strand_one/pig_latin.md)
   * TODO: [Dice Rolling Simulator](./projects/strand_one/dice_roller.md)
-  * TODO: [Hang Man Game](./projects/strand_one/dice_roller.md)
+  * TODO: [Hang Man Game](./projects/strand_one/hang_man.md)
 * Develop complex applications using control structures (loops, if/else, etc.)
   * [Reaction Time Bot](./projects/strand_one/human_benchmark_reaction.md)
   * [Aim Trainer Bot](./projects/strand_one/human_benchmark_aim.md)
 * Develop complex applications using object-oriented programming
-  * [Object-Oriented Programming](./projects/strand_one/OOP.md)
+  * [Object-Oriented Programming](./projects/strand_one/basic_oop.md.md)
 * Develop complex applications using data structures
   * [Linked List](./projects/strand_one/linked_list.md)
 * Develop complex applications using files (sequential files)
@@ -142,7 +142,8 @@ Implement polymorphism
 * Demonstrate typecasting via method calls of inherited objects
 
 Projects
-* [Object-Oriented Programming](./projects/strand_one/OOP.md)
+* [Object-Oriented Programming](./projects/strand_one/basic_oop.md)
+* [Advanced Object-Oriented Programming](./projects/strand_five/adv_oop.md)
 * Postfix to Infix, but students create their own Stack class
 * Queues, but students create their own queue class
 
