@@ -77,9 +77,9 @@ Utilize multidimensional arrays
 * Perform searches on multidimensional arrays
 
 ### Projects
-* TODO: [Tic Tac Toe](./projects/strand_three/tic_tac_toe.md)
-* TODO: [Connect Four](./projects/strand_three/connect_four.md)
-* TODO: [Battleship Game](./projects/strand_three/battleship.md)
+* [Tic Tac Toe](./projects/strand_three/tic_tac_toe.md)
+* [Connect Four](./projects/strand_three/connect_four.md)
+* [Battleship Game](./projects/strand_three/battleship.md)
 
 ## Strand 4
 Students will properly employ dynamic data structures / abstract data types (ADTs)
