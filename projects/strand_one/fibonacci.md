@@ -6,10 +6,6 @@ The [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) is a se
 
 ![Fibonacci](../images/fibonacci.png)
 
-This golden ratio is used as a key design principle for websites and company logos.
-
-![Golden Ratio](../images/golden_ratio.png)
-
 ## Instructions
 Your assignment is to write a program that:
 * Gets a user input of how many digits of the Fibonacci sequence to print

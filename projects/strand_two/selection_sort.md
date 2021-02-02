@@ -7,7 +7,7 @@ Selection sort is a sorting algorithm that builds a sorted list by selecting the
 * Selection sort is slightly more efficient than Insertion sort, but still not widely useful compared to other options.
 * See the [Wikipedia page](https://en.wikipedia.org/wiki/Selection_sort) on Selection sort for more information
 
-![Selection sort](./images/selection_sort.gif)
+![Selection sort](../images/selection_sort.gif)
 <sub><sup>https://stackabuse.com/selection-sort-in-javascript/</sub></sup>
 
 ## Instructions

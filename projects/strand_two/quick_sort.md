@@ -6,7 +6,7 @@ Quick sort is a *recursive* sorting algorithm that sorts data using a Binary Sea
 * Quick sort is widely known as the most efficient, fast, and useful sorting algorithm available for use.
 * See the [Wikipedia page](https://en.wikipedia.org/wiki/Quicksort) on Quick sort for more information
 
-![Quick sort](./images/Quick_sort.gif)
+![Quick sort](../images/Quick_sort.gif)
 
 <sub><sup>By Matt Chan (jacky&#039;s brother) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14961785</sub></sup>
 

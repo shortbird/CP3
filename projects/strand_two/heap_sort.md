@@ -7,7 +7,7 @@ Heap sort is a *recursive* sorting algorithm that sorts data using a Binary Sear
 * Heap sort is an efficient sorting algorithm that works much faster than Bubble, Selection, and Insertion sorts
 * See the [Wikipedia page](https://en.wikipedia.org/wiki/heapsort) on Heap sort for more information
 
-![Heap sort](./images/Heap_sort.gif)
+![Heap sort](../images/Heap_sort.gif)
 
 <sub><sup>By Swfung8 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14957305</sub></sup>
 d

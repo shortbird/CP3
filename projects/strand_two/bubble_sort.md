@@ -7,7 +7,7 @@ Bubble sort is a sorting algorithm that compares adjacent values and, if necessa
 * Bubble sort is an inefficient way of sorting data, but is useful for beginners who are learning about sorting algorithms
 * See the [Wikipedia page](https://en.wikipedia.org/wiki/Bubble_sort) on Bubble sort for more information
 
-![Bubble sort](./images/bubble_sort.gif)
+![Bubble sort](../images/bubble_sort.gif)
 
 <sub><sup>https://commons.wikimedia.org/wiki/File:Bubble-sort-example-300px.gif</sub></sup>
 
