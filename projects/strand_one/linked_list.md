@@ -8,7 +8,7 @@ A linked list is a data structure with the following attributes:
 * The first node in the list is referred to as the "head", and the final node is referred to as the "tail"
 * The final node in the lists points to "None"
 
-![Linked List](./images/linked_list.png)
+![Linked List](../images/linked_list.png)
 
 ## Instructions
 Use object-oriented programming techniques to do the following:

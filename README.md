@@ -19,8 +19,8 @@ Students will develop applications which made advanced use of the skills and con
 Demonstrate the ability to develop complex applications
 * Develop complex applications using input, calculations, and output
   * [Pig Latin](./projects/strand_one/pig_latin.md)
-  * TODO: [Dice Rolling Simulator](./projects/strand_one/dice_roller.md)
-  * TODO: [Hang Man Game](./projects/strand_one/hang_man.md)
+  * [Dice Rolling Simulator](./projects/strand_one/dice_roller.md)
+  * [Hang Man Game](./projects/strand_one/hang_man.md)
 * Develop complex applications using control structures (loops, if/else, etc.)
   * [Reaction Time Bot](./projects/strand_one/human_benchmark_reaction.md)
   * [Aim Trainer Bot](./projects/strand_one/human_benchmark_aim.md)
@@ -29,15 +29,14 @@ Demonstrate the ability to develop complex applications
 * Develop complex applications using data structures
   * [Linked List](./projects/strand_one/linked_list.md)
 * Develop complex applications using files (sequential files)
-  * TODO: [State Capitals Quiz](./projects/strand_one/state_capitals.md)
+  * [State Capitals Quiz](./projects/strand_one/state_capitals.md)
 
 ### Standard 2
 Utilize recursive algorithms
 * Analyze and solve recursive functions
 * Utilize recursive algorithms to solve a problem
 * Identify the base case, recursive case, and action of recursive functions
-Projects
-* TODO: [Fibonacci Calculator](./projects/strand_one/fibonacci.md)
+* [Fibonacci Calculator](./projects/strand_one/fibonacci.md)
 
 ### Standard 3
 Create advanced functions
@@ -77,7 +76,7 @@ Utilize multidimensional arrays
 * Perform operations on multidimensional arrays
 * Perform searches on multidimensional arrays
 
-Projects
+### Projects
 * TODO: [Tic Tac Toe](./projects/strand_three/tic_tac_toe.md)
 * TODO: [Connect Four](./projects/strand_three/connect_four.md)
 * TODO: [Battleship Game](./projects/strand_three/battleship.md)
@@ -93,7 +92,7 @@ Demonstrate the ability to use stacks in programs
 * Push on to and pop off values from stacks
 * Develop an application that uses stacks
 
-Projects
+### Projects
 * TODO: [Postfix to Infix](./projects/strand_four/postfix_infix.md)
   * https://alpine.instructure.com/courses/56757/assignments/662571?module_item_id=1394624
   * Uses built-in Python data structures (list)
@@ -106,7 +105,7 @@ Demonstrate the ability to use queues in programs
 * Enqueue values on to and dequeue values off queues
 * Develop an application that utilizes queues
 
-Projects
+### Projects
 * TODO: [Queues](./projects/strand_four/queues.md)
   * https://alpine.instructure.com/courses/56757/assignments/662575?module_item_id=1394626
   * Uses built-in Python data structures (list)
@@ -141,7 +140,7 @@ Implement polymorphism
 * Determine IS-A relationships via code
 * Demonstrate typecasting via method calls of inherited objects
 
-Projects
+### Projects
 * [Object-Oriented Programming](./projects/strand_one/basic_oop.md)
 * [Advanced Object-Oriented Programming](./projects/strand_five/adv_oop.md)
 * Postfix to Infix, but students create their own Stack class
@@ -157,7 +156,7 @@ Demonstrate the use of UML in design
 * Create a sequence diagram for a function
 * Translate diagrams to code
 
-Projects
+### Projects
 * Create UML diagrams of past projects
 
 ## Strand 7

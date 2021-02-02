@@ -7,12 +7,8 @@ Dungeons and Dragons is a popular role-playing game that uses different dice rol
 Write a Python program that:
 * Has a working text-based menu to allow the user to select which dice to roll
 * Has a unique function for each die (D4, D6, D8, D10, D00, D12, D20)
-* Randomly outputs a number 
+* Randomly outputs a number from the range of the dice chosen
 
 ## Hints
-Here are the rules used by Pig Latin:
-* If a word begins with a vowel (a, e, i, o, u), add "yay" to the end
-  * For example, "exit" is translated to "exityay"
-* If a word begins with a consonant, remove all letters before the first vowel and add them to the end of the word, followed by "ay"
-  * For example, "yeet" is translated to "eetyay"
-* Check out this [Pig Latin Translator](https://lingojam.com/PigLatinTranslator)
+* [How to generate random numbers](https://www.programiz.com/python-programming/modules/random)
+* If you're a big D&D fan, try adding functionality that rolls a dice a certain number of times, such as a "2D10 roll". You could also add in functionality to completely automate battles including the HP of each player, the dice they can roll, certain actions they can take, etc.
